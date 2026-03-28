@@ -45,7 +45,9 @@ BUILD ISO
           - All Windows Updates
           
 - FOR ALL MODIFICATIONS - you have to choose AUDIT MODE AND REBOOT 
+
 <img width="339" height="260" alt="image" src="https://github.com/user-attachments/assets/45a40fae-775d-4544-8cf0-81515742247e" />
+
 
 
 Once all modification is done :
