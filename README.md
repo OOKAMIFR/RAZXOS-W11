@@ -16,7 +16,7 @@ REQUIERMENTS
     - 32gb USB Stick (3gen1 or 2) or USB-C
     - Patience
 
-EXPLANATIONS
+**EXPLANATIONS**
   - I choose W11 ENT because this version is the most close to a debloated iso
    - no crappy apps like weather, actuallity, solitaire and so on
    - it offer a better MSTSC if you want to play on your regular computer or acces to Admin session if you want to apply updates while playing your games
@@ -25,7 +25,7 @@ EXPLANATIONS
    - Official tool prepare stick on FAT32 and have limitation (files limited to 4gb)  
 
 
-BUILD ISO
+**BUILD ISO**
 
   Open Rufu and choose iso you want to use
     - Prefer NTFS instead of FAT32
@@ -52,20 +52,22 @@ BUILD ISO
             - And so on.....
           - All Windows Updates
           
-- FOR ALL MODIFICATIONS - you have to choose AUDIT MODE AND REBOOT 
+- **FOR ALL MODIFICATIONS - you have to choose AUDIT MODE AND REBOOT**
 
 <img width="339" height="260" alt="image" src="https://github.com/user-attachments/assets/45a40fae-775d-4544-8cf0-81515742247e" />
 
 
 
 Once all modification is done :
+
 <img width="342" height="265" alt="image" src="https://github.com/user-attachments/assets/3a48d433-d0cf-4093-86eb-c0b2809230c8" />
+
 
 When console if off, turn on and boot to usb stick
 You will enter to Windows installation
 With keyboard, enter SHIFT + F10 to have command prompt
 
-TO BE CONTINUED
+**TO BE CONTINUED**
 
 
 
