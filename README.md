@@ -80,7 +80,7 @@ With keyboard, enter SHIFT + F10 to have command prompt
 
 # AT LAST
 
-if you want to have the build I made, I will share link of my own INSTALL.ESD once all steps are finished
+if you want to have the build I made, I will share link of my own **INSTALL.ESD** once all steps are finished
 This file will not have apps **My Asus** ,**GlideX** and **Edge** because useless for me and my way to have a true hendheld console
 
 **TO BE CONTINUED**
