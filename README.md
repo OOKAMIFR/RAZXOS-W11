@@ -31,7 +31,7 @@ BUILD ISO
     - Prefer NTFS instead of FAT32
 <img width="518" height="653" alt="image" src="https://github.com/user-attachments/assets/d683dd6d-beef-4d20-8af9-a9e8743612a6" />
 
-        - You can choose local account but it is recommended to deactivate all
+   - You can choose local account but it is recommended to deactivate all
         
         <img width="573" height="649" alt="image" src="https://github.com/user-attachments/assets/580674be-f4f3-440c-950b-f7ec56fbbd7c" />
         
