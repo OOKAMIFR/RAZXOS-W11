@@ -7,7 +7,7 @@
 This repository will explain how to create Windows 11 with all drivers and apps needed for the Rog Ally Z1 Extreme console
   - this should also work with Z1 but i don't have this model
 
-**REQUIERMENTS**
+# REQUIERMENTS
 
 For this project and on my case
 - Windows 11 Enterprise iso (W11H and W11P also works)
@@ -15,9 +15,18 @@ For this project and on my case
 - USB-C HUB or Docking Station
 - Keyboard + Mouse (more easy with these)
 - 32gb USB Stick (3gen1 or 2) or USB-C
+- Rog Ally drivers, especially **NVIDIA MCP**
 - Patience
 
-**EXPLANATIONS**
+# ROG ALLY DRIVERS
+ - https://rog.asus.com/gaming-handhelds/rog-ally/rog-ally-2023/helpdesk_download/
+ -   **Advice** : download only Wifi drivers, Armoury Crate and let Windows Update let the work
+ - **NVIDIA MCP** : go to https://www.nvidia.com/fr-fr/drivers/
+ - download latest **NVIDIA GEFORCE** drivers, extract with 7zip and place folder to the root of your USB stick
+ - go to **Device Management** by clicking right on **windows start incon**
+ - choose **unknown device**, update drivers and choose where the extracted folder is located
+   
+# EXPLANATIONS
   - I choose W11 ENT because this version is the most close to a debloated iso
    - no crappy apps like weather, actuallity, solitaire and so on
    - it offer a better MSTSC if you want to play on your regular computer or acces to Admin session if you want to apply updates while playing your games
@@ -26,10 +35,10 @@ For this project and on my case
    - Official tool prepare stick on FAT32 and have limitation (files limited to 4gb)  
 
 
-**BUILD ISO**
+# BUILD ISO
 
   Open Rufu and choose iso you want to use
-    - Prefer NTFS instead of FAT32
+    - Prefer **NTFS** instead of **FAT32**
 <img width="518" height="653" alt="image" src="https://github.com/user-attachments/assets/d683dd6d-beef-4d20-8af9-a9e8743612a6" />
 
    - You can choose local account but it is recommended to deactivate all
@@ -67,6 +76,12 @@ Once all modification is done :
 When console if off, turn on and boot to usb stick
 You will enter to Windows installation
 With keyboard, enter SHIFT + F10 to have command prompt
+
+
+# AT LAST
+
+if you want to have the build I made, I will share link of my own INSTALL.ESD once all steps are finished
+This file will not have apps **My Asus** ,**GlideX** and **Edge** because useless for me and my way to have a true hendheld console
 
 **TO BE CONTINUED**
 
