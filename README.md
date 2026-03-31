@@ -24,6 +24,7 @@ EXPLANATIONS
 - I use Rufus instead of Microsoft Media Creation tool
    - Official tool prepare stick on FAT32 and have limitation (files limited to 4gb)  
 
+
 BUILD ISO
 
   Open Rufu and choose iso you want to use
