@@ -2,19 +2,20 @@
 
 
 # RAZXOS-W11
-Rog Ally Zx Operating System - Windows 11
+**R**og **A**lly **Z**x **O**perating **S**ystem - Windows 11
 
 This repository will explain how to create Windows 11 with all drivers and apps needed for the Rog Ally Z1 Extreme console
   - this should also work with Z1 but i don't have this model
 
-REQUIERMENTS
-  For this project and on my case
-    - Windows 11 Enterprise iso (W11H and W11P also works)
-    - Rufus
-    - USB-C HUB or Docking Station
-    - Keyboard + Mouse (more easy with these)
-    - 32gb USB Stick (3gen1 or 2) or USB-C
-    - Patience
+**REQUIERMENTS**
+
+For this project and on my case
+- Windows 11 Enterprise iso (W11H and W11P also works)
+- Rufus
+- USB-C HUB or Docking Station
+- Keyboard + Mouse (more easy with these)
+- 32gb USB Stick (3gen1 or 2) or USB-C
+- Patience
 
 **EXPLANATIONS**
   - I choose W11 ENT because this version is the most close to a debloated iso
