@@ -1,3 +1,6 @@
+<img width="816" height="520" alt="image" src="https://github.com/user-attachments/assets/af28dd84-8da4-4611-9b8b-5529f0cc2eba" />
+
+
 # RAZXOS-W11
 Rog Ally Zx Operating System - Windows 11
 
