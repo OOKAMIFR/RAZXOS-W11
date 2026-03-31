@@ -25,6 +25,7 @@ EXPLANATIONS
    - Official tool prepare stick on FAT32 and have limitation (files limited to 4gb)  
 
 BUILD ISO
+
   Open Rufu and choose iso you want to use
     - Prefer NTFS instead of FAT32
 <img width="518" height="653" alt="image" src="https://github.com/user-attachments/assets/d683dd6d-beef-4d20-8af9-a9e8743612a6" />
