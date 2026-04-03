@@ -1,0 +1,1 @@
+DISM /get-wiminfo /wimfile:C:\install.wim
