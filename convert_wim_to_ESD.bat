@@ -1,0 +1,1 @@
+Dism /export-image /sourceimagefile :C:\install.wim /sourceindex:1 /destinationimagefile :C:\install.esd
