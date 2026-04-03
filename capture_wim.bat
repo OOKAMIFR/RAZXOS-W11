@@ -1,0 +1,1 @@
+Dism /capture-image /imagefile : C:\install.wim /capturedir:C:\ /name:RAZXOS /bootable
