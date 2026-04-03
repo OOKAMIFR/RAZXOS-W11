@@ -1,0 +1,1 @@
+Dism /Split-Image /ImageFile:C:\install.wim /SWMFile:C:\intall.swm /FileSize:3500
